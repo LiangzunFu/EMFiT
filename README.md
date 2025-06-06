@@ -4,6 +4,6 @@ The Results folder contains training results of the EMFiT model and its ablation
 
 The embryo_dataset_annotations_revise folder contains the cleaned annotation files of the dataset.
 
-The embryo_development_stage folder includes the implementation code of the EMFiT model and its ablation studies.
+The embryo_development_stage folder includes the implementation code of the EMFiT model and its ablation experiments.
 
-The pretrained model weights required by the code, as well as the trained weights of the EMFiT model and its ablation variants, can be downloaded from this [[link]](https://drive.google.com/drive/folders/1DgymniuN4OnOJzqNn2txzryzhbTH8COH?usp=drive_link).
+The pretrained model weights required by the code, as well as the trained weights of the EMFiT model and its ablation experiments, can be downloaded from this [[link]](https://drive.google.com/drive/folders/1DgymniuN4OnOJzqNn2txzryzhbTH8COH?usp=drive_link).
