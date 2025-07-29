@@ -1,6 +1,6 @@
 # EMFiT
 
-The Results folder contains training results of the EMFiT model and its ablation studies, including loss, accuracy, etc.
+The Results folder contains the training and validation results of the EMFiT model and its ablation studies, including loss, accuracy, etc.
 
 The embryo_dataset_annotations_revise folder contains the cleaned annotation files of the dataset.
 
