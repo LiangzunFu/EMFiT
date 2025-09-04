@@ -1,0 +1,6 @@
+python == 3.7.16
+cudatoolkit == 11.3.1
+cudnn == 8.2.1
+torch == 1.12.1
+torchvision == 0.13.1
+tqdm == 4.64.1
